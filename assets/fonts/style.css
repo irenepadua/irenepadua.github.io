@@ -1,4 +1,9 @@
 @font-face {
+   font-family: 'Playlist Script';
+   font-display: swap;
+   src: url('Playlist Script/font.ttf');
+}
+@font-face {
    font-family: 'dattebayo';
    font-display: swap;
    src: url('dattebayo/font.ttf');
